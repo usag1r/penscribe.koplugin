@@ -17,6 +17,14 @@ Enable PenScribe from **KOReader menu → Tools → PenScribe → Enabled**. The
 
 **Important.** If **Kindle Scribe Colorsoft** is on in settings and the device is a mono Scribe, non-black ink can be invisible. Turn that option off, or pick black.
 
+## Disclaimer
+
+This plugin is experimental. There is no guarantee that it will work on your device, keep your ink, or leave your files alone.
+
+It is provided as-is, with no warranty of any kind. The developers and contributors are not responsible for lost annotations, damaged documents, device problems, or anything else that comes from using this plugin.
+
+You should back up your books and notes if losing them would hurt.
+
 ---
 
 ## Usage
@@ -149,3 +157,5 @@ Copy this folder to `koreader/plugins/penscribe.koplugin` and restart KOReader. 
 GNU Affero General Public License v3.0 (AGPL-3.0).
 
 Same license as [pencil.koplugin](https://github.com/mysticknits/pencil.koplugin) by mysticknits, which this work is built upon. See [gnu.org/licenses](https://www.gnu.org/licenses/agpl-3.0.html) for the full text.
+
+The software is provided without warranty. See the AGPL text (sections 15 and 16) for the disclaimer of warranty and limitation of liability.

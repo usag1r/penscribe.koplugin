@@ -2158,6 +2158,11 @@ function Pencil:showAbout()
     add_line("github.com/mysticknits/pencil.koplugin")
 
     add_span(10)
+    add_heading(_("Disclaimer"))
+    add_span(2)
+    add_para(_("This plugin is experimental and comes with no warranty. Use it at your own risk. The developers are not liable for data loss or device issues."))
+
+    add_span(10)
     add_heading(_("License"))
     add_span(2)
     add_para(_("GNU Affero General Public License v3.0 (AGPL-3.0)"))
