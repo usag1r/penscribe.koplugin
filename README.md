@@ -19,11 +19,11 @@ Enable PenScribe from **KOReader menu → Tools → PenScribe → Enabled**. The
 
 ## Disclaimer
 
-This plugin is experimental. There is no guarantee that it will work on your device, keep your ink, or leave your files alone.
+This plugin is experimental. It is provided as is, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
-It is provided as-is, with no warranty of any kind. The developers and contributors are not responsible for lost annotations, damaged documents, device problems, or anything else that comes from using this plugin.
+In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability arising from the use of this software, including but not limited to loss of data or damage to devices or documents.
 
-You should back up your books and notes if losing them would hurt.
+Users are advised to back up their documents and data before use.
 
 ---
 

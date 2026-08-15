@@ -2160,7 +2160,7 @@ function Pencil:showAbout()
     add_span(10)
     add_heading(_("Disclaimer"))
     add_span(2)
-    add_para(_("This plugin is experimental and comes with no warranty. Use it at your own risk. The developers are not liable for data loss or device issues."))
+    add_para(_("This plugin is experimental. It is provided as is, without warranty of any kind. The authors and contributors shall not be liable for any damages, including data loss or device malfunction, arising from its use."))
 
     add_span(10)
     add_heading(_("License"))
