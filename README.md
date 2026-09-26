@@ -148,7 +148,7 @@ Waveform picks (A2 vs UI vs GC16), Colorsoft grid, GC16 when you pick highlighte
 
 ## Installation
 
-Copy this folder to `koreader/plugins/penscribe.koplugin` and restart KOReader. Lua is cached until then.
+Copy the `penscribe.koplugin` folder into KOReader's `plugins` directory and restart KOReader. Lua is cached until then.
 
 ---
 
